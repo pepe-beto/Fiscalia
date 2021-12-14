@@ -4,6 +4,9 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
+/**
+ * Este es el controlador del proyecto
+ */
 class FiscaliaController extends Controller
 {
     /**
